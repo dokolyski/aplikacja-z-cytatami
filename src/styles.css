@@ -1,1 +1,11 @@
-/* Add application styles & imports to this file! */
+@import 'xterm/dist/xterm.css';
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+h2 {
+  font-family: Lato;
+}
